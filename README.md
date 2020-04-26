@@ -7,7 +7,7 @@ gitPod をベースに C/C++ の初歩教育をおこなうための環境テス
 初回アクセス
 
 1. github にアカウントをとっておく
-2. https://gitpod.io/#https://github.com/tomiokamada/podTest にアクセス
+2. https://gitpod.io/#https://github.com/KobeUCSEnshu/test0 にアクセス
 3. 1-2分待ったほうがよいかも。（いくつかplugin が load されたりします）
 
 ２回目からのアクセス
